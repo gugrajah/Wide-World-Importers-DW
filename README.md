@@ -1,4 +1,4 @@
-# Wide World Importers Data Warehouse - Microsoft Fabric
+# End-to-End Data Warehouse - Microsoft Fabric
 
 This project implements a complete data warehouse solution using Microsoft Fabric, based on the [official Microsoft tutorial](https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction). It demonstrates core data warehousing concepts including data ingestion, table creation, stored procedures, cloning, and time travel queries.
 
